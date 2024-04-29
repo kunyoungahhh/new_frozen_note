@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "170068570586",
+    "project_id": "frozen-note",
+    "storage_bucket": "frozen-note.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170068570586:android:d5497d941cb96d576c90e3",
+        "android_client_info": {
+          "package_name": "com.example.frozen_notes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170068570586-6bjq5pjgu9mld41b4835tdovnnb72dds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.frozen_notes",
+            "certificate_hash": "06d84847c562aa1e46a72ae3dc5188bcc8fc97b5"
+          }
+        },
+        {
+          "client_id": "170068570586-phb9ncpdsu9puaca1g98165ohoqvkm2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nCCgOLWvulXvpn0yfcyMQw5DfOoAlGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170068570586-phb9ncpdsu9puaca1g98165ohoqvkm2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170068570586-cacnf2cujp4o71u1mfl5ln95tkcck43q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frozenNotes"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170068570586:android:d0e4ae13ae9645676c90e3",
+        "android_client_info": {
+          "package_name": "com.example.new_frozen_note"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170068570586-phb9ncpdsu9puaca1g98165ohoqvkm2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1nCCgOLWvulXvpn0yfcyMQw5DfOoAlGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170068570586-phb9ncpdsu9puaca1g98165ohoqvkm2t.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "170068570586-cacnf2cujp4o71u1mfl5ln95tkcck43q.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.frozenNotes"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,42 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "frozen-note",
+          "appId": "1:170068570586:android:d0e4ae13ae9645676c90e3",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "ios": {
+        "default": {
+          "projectId": "frozen-note",
+          "appId": "1:170068570586:ios:690537b1b1bbb7936c90e3",
+          "uploadDebugSymbols": false,
+          "fileOutput": "ios/Runner/GoogleService-Info.plist"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "frozen-note",
+          "configurations": {
+            "android": "1:170068570586:android:d0e4ae13ae9645676c90e3",
+            "ios": "1:170068570586:ios:690537b1b1bbb7936c90e3",
+            "web": "1:170068570586:web:1d44d844bbd9411b6c90e3"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "source": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "frameworksBackend": {
+      "region": "asia-east1"
+    }
+  }
+}
