@@ -20,6 +20,6 @@ Personal project - work in progress
 
 ## Screenshots
 
-![Home Screen](screenshots/home_screen.png)
-![Search Screen](screenshots/search_screen.png)
-![Rating Screen](screenshots/rating_screen.png)
+![Home Screen](screenshots/home_screen.jpeg)
+![Search Screen](screenshots/search_screen.jpeg)
+![Rating Screen](screenshots/rating_screen.jpeg)
