@@ -8,4 +8,18 @@ Currently implementing:
 - Book Recommendation using an LLM
 - and More
 
-Status: Work in progress
+## Built With
+
+- Flutter
+- Dart
+- Firebase
+
+## Status
+
+Personal project - work in progress
+
+## Screenshots
+
+![Home Screen](screenshots/home_screen.png)
+![Search Screen](screenshots/search_screen.png)
+![Rating Screen](screenshots/rating_screen.png)
