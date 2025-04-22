@@ -1,16 +1,11 @@
-# new_frozen_note
+# Frozen Note
 
-A new Flutter project.
+A personal Flutter experiment with Firebase and Aladdin Book API. 
 
-## Getting Started
+Currently implementing:
+- Annotating and Highlighting Memorable Quotes
+- Marking books as 'Want to Read', 'Reading', and 'Read'
+- Book Recommendation using an LLM
+- and More
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Status: Work in progress
